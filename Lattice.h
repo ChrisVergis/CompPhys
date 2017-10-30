@@ -1,3 +1,6 @@
+#ifndef LATTICE_H
+#define LATTICE_H
+
 class Lattice
 {
 private:
@@ -10,3 +13,5 @@ public:
   setY(double y);
 
 };
+
+#endif
